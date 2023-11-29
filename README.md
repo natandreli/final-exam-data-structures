@@ -23,4 +23,6 @@ Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque
 - [PDF: Punto 3 - Modelo entidad-relación](punto-3/Punto%203%20-%20Modelo%20entidad-relación.pdf): Presentamos el modelo ER al sistema planteado, junto con la justificación y argumentación de nuestra elección.
 - [JPG: Diagrama Gestion Empleados](punto-3/Diagrama%20Gestion%20Empleados.jpg): Imágen de nuestro modelo Entidad-Relación para el sistema propuesto.
 
+Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 1 del examen.
+
 ### ¡Gracias por revisar nuestro trabajo! 💕
