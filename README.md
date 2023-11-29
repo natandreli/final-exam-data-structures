@@ -17,12 +17,18 @@ Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque
 
 ## punto-2 (próximamente)
 🛸 En esta carpeta encontrarás:
+
+- [PDF: Punto 2 - Árboles para sistemas de recomendación y filtrado](punto-2/Punto%202%20-%20Árboles%20para%20sistemas%20de%20recomendación%20y%20filtrado.pdf): Presentamos nuestra respuesta al problema planteado, junto con la justificación y argumentación de nuestra elección.
+- [Notebook Jupyter: recommendation-system](punto-2/recommendation-sytem.ipynb): Este archivo contiene el código y la implementación de un KD-Tree para un sistema de recomendación para prendas de una tienda de ropa según características como tipo de prenda, precio, material y público para el cual fue confeccionada.
+
+Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 2 del examen.
+
 ## punto-3 
 ✈️ En esta carpeta encontrarás:
 
 - [PDF: Punto 3 - Modelo entidad-relación](punto-3/Punto%203%20-%20Modelo%20entidad-relación.pdf): Presentamos el modelo ER al sistema planteado, junto con la justificación y argumentación de nuestra elección.
 - [JPG: Diagrama Gestion Empleados](punto-3/Diagrama%20Gestion%20Empleados.jpg): Imágen de nuestro modelo Entidad-Relación para el sistema propuesto.
 
-Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 1 del examen.
+Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 3 del examen.
 
 ### ¡Gracias por revisar nuestro trabajo! 💕
