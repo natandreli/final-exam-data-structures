@@ -1,12 +1,12 @@
-# Examen Final de Estructuras de Datos
+# Examen Final de Estructuras de Datos 🎉 🎓
 
 Realizado por:
 - Sara Lorena Duque Ramírez
 - Natalia Andrea García Ríos
 
-¡Hola! Este repositorio contiene nuestro examen final para el curso de Estructuras de Datos. Hemos organizado el contenido en tres carpetas principales:
+👨🏻‍🏫 ¡Hola! Este repositorio contiene nuestro examen final para el curso de Estructuras de Datos. Hemos organizado el contenido en tres carpetas principales:
 
-## punto-1
+## punto-1 🚀
 En esta carpeta encontrarás:
 
 - [PDF: Punto 1 - Justificación - Sistema de Clasificación Deportiva](punto-1/Punto%201%20-%20Justificación%20-%20Sistema%20de%20clasificación%20deportiva.pdf): Presentamos nuestra respuesta al problema planteado, junto con la justificación y argumentación de nuestra elección.
@@ -15,9 +15,9 @@ En esta carpeta encontrarás:
 
 Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 1 del examen.
 
-## punto-2 (próximamente)
+## punto-2 🛸 (próximamente)
 
-## punto-3
+## punto-3 ✈️
 En esta carpeta encontrarás:
 
 - [PDF: Punto 3 - Modelo entidad-relación](punto-3/Punto%203%20-%20Modelo%20entidad-relación.pdf): Presentamos el modelo ER al sistema planteado, junto con la justificación y argumentación de nuestra elección.
