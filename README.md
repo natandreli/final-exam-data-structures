@@ -27,7 +27,7 @@ Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque
 ✈️ En esta carpeta encontrarás:
 
 - [PDF: Punto 3 - Modelo entidad-relación](punto-3/Punto%203%20-%20Modelo%20entidad-relación.pdf): Presentamos el modelo ER al sistema planteado, junto con la justificación y argumentación de nuestra elección.
-- [PNG: Modelo ER - Gestion Empleados](punto-3/Modelo%20ER%20-%20Gestión%20de%20Empleados.png): Imágen de nuestro modelo Entidad-Relación para el sistema propuesto. También puedes encontrarlo directo en lucidchart, [aquí](https://lucid.app/lucidchart/18b2df8e-5a0d-4677-9c08-67006e8f11f1/edit?viewport_loc=-2002%2C-828%2C2319%2C954%2C0_0&invitationId=inv_121d406e-83bf-4bc3-89c4-cc7b19d7fb14).
+- [PNG: Modelo ER - Gestion Empleados](punto-3/Modelo%20ER%20-%20Gestión%20de%20Empleados.png): Imagen de nuestro modelo Entidad-Relación para el sistema propuesto. También puedes encontrarlo directo en lucidchart, [aquí](https://lucid.app/lucidchart/18b2df8e-5a0d-4677-9c08-67006e8f11f1/edit?viewport_loc=-2002%2C-828%2C2319%2C954%2C0_0&invitationId=inv_121d406e-83bf-4bc3-89c4-cc7b19d7fb14).
 
 Siéntete libre de explorar cada carpeta para conocer más sobre nuestro enfoque y solución al problema presentado en el punto 3 del examen.
 
